@@ -1,4 +1,4 @@
-# 1CS AI Fundamentals Assignments
+# AI Fundamentals Assignments
 
 This repository contains assignments and projects for the Artificial Intelligence (AI) module in my 3rd year of university (1CS). The module covers a wide range of AI topics, including First-Order Logic (FOL), search algorithms, constraint satisfaction problems (CSPs), expert systems, robotics, and more. Each folder corresponds to a specific chapter, and assignments are organized accordingly.
 
